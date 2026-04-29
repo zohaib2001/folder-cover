@@ -47,3 +47,7 @@ I originally built this tool for myself to create custom folder-style covers for
 * `index.html`: Semantic structure and UI layout.
 * `style.css`: Comprehensive styling, animations, and theme variables.
 * `script.js`: Image generation logic, font loading, and event handling.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
